@@ -1,0 +1,18 @@
+SISTEMA DE GESTAO DE ALUINOS - SIS (STUDENT INFORMATION SYSTEM)
+MatriculaAluno
+NomeAluno
+SerieAluno
+DataEntrada
+DataSaida
+ParentescoAluno
+|
+V
+======
+API
+======
+^
+|
+DE GESTAO DE CLIENTES - ERP (Enterprise Resource Planning)
+MatriculaAluno
+NomeAluno
+SerieAluno
